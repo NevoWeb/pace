@@ -1,26 +1,10 @@
-pace
-====
+Using this script will automatically add an loading object to your website: 
 
-An automatic web page progress bar.
+**To install it just add this script on your FTP **
 
-Include [pace.js](https://raw.github.com/HubSpot/pace/v0.4.14/pace.min.js) and a [theme](http://github.hubspot.com/pace/docs/welcome/) of your choice to your page and you are done!
+<body>
+**<script src="/loading( the directory of your script page)/pace.js"></script>**
+**<link href="/( the directory of your script page)/themes/pace-theme-barber-shop.css (or you can choose another theme from there just copy the name and rename this one!" rel="stylesheet" />**
+</body>
 
-Pace will automatically monitor your Ajax requests, event loop lag, document ready state and elements on your page to decide on the progress.
-
-If you use AMD or Browserify, require pace.js and call `pace.start()` as early in the loading process as is possible.
-
-### [Demo](http://github.hubspot.com/pace/docs/welcome/)
-
-### [Documentation](http://github.hubspot.com/pace/)
-
-### Example
-
-```html
-<head>
-  <script src="/pace/pace.js"></script>
-  <link href="/pace/themes/pace-theme-barber-shop.css" rel="stylesheet" />
-</head>
-```
-
-![Analytics](https://ga-beacon.appspot.com/UA-45159009-2/pace/readme?pixel)
-
+Need help? Contact us at:  ### **www.nevo.tk/portal/** and we will help you with anything about it!
